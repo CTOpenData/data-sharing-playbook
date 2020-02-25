@@ -1,0 +1,17 @@
+# Setup
+title:            'State of Connecticut'
+tagline:          'Data Playbook'
+description:      'Connecticut Data Playbook'
+
+author:
+  name:           'State of Connecticut'
+  url:            https://twitter.com/chhsagency
+
+# Custom vars
+version:          3.0 | November 2018
+
+github:
+  repo:           https://github.com/CHHSData/DataPlaybook
+
+# Google Analytics
+google_analytics: UA-56144207-2

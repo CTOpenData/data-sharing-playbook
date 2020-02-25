@@ -1,0 +1,6 @@
+I"±<!-- Pagination -->
+<div class="pagination">
+  <span class="pagination-item older">&laquo; Prev</span>
+  <a class="pagination-item newer" href="/define">Next &raquo;</a>
+</div>
+:ET
