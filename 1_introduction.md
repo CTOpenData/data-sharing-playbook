@@ -6,7 +6,7 @@ permalink: /introduction/
 
 The Office of Policy and Management (OPM) noted in its [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf) that leveraging data from multiple state agencies can improve program administration, policy analysis, research, and performance management. Connecticut state agencies, however, may not be harnessing the full potential of multi-agency data due to challenges in data sharing.
 
-In this playbook, we lay out strategies that will help Connecticut state agencies overcome the obstacles to sharing data. The strategies are based on best practices from other states, specific examples and methods from Connecticut state agencies, and the recommendations found in OPM’s report. 
+This is a test
 
 ## How to use this playbook
 
