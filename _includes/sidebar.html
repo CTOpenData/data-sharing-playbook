@@ -1,7 +1,6 @@
-<!-- Toggleable sidebar -->
 <div class="ct-p-5 ct-bg-grey-light" id="sidebar">
   <nav>
-    <a class="ct-block ct-pb-3 ct-mb-3 ct-border-primary-normal ct-border-b {% if page.title == "Home" %} ct-font-bold{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.title == "Home" %} ct-font-bold{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -13,7 +12,7 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <li><a class="ct-block ct-pb-3 ct-mb-3 ct-border-primary-normal ct-border-b {% if page.url == node.url %} ct-font-bold{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ forloop.index }}. {{ node.title }}</a></li>
+          <li><a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.url == node.url %} ct-font-bold{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ forloop.index }}. {{ node.title }}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}
