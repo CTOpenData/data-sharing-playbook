@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1. Introduction
+title: Introduction
 permalink: /introduction/
 ---
 

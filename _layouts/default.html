@@ -5,26 +5,18 @@
 
   <body class="theme-base-chhs">
 
-    {% include sidebar.html %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
-        </div>
+    <header class="ct-bg-primary-normal ct-py-4">
+      <div class="ct-flex ct-flex-col md:ct-flex-row md:ct-items-center ct-px-6">
+        <div class="md:ct-w-1/2 ct-mb-4 md:ct-mb-0 ct-text-white"><strong>{{ site.title }}</strong> &middot; {{ site.tagline }} </div>
       </div>
+    </header>
 
-      <div class="container content">
-        {{ content }}
+    <div class="ct-max-w-7xl ct-container ct-flex-wrap ct-mx-auto ct-py-8 md:ct-py-20">
+      <div class="ct-flex ct---mx-4">
+        <div class="sm:ct-w-1/3 md:ct-w-1/4 ct-px-4">{% include sidebar.html %}</div>
+        <div class="sm:ct-w-2/3 md:ct-w-3/4 ct-px-4">{{ content }}</div>
       </div>
     </div>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
       (function(document) {

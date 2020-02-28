@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2. Enabling Data Sharing
+title: Enabling Data Sharing
 permalink: /enabling-data-sharing/
 ---
 
