@@ -7,7 +7,7 @@ nav: true
 
 ## Identify who plays each data-related role.
 
-Identifying who plays each data-related role allows organizations to establish who has the responsibility of fielding external inquiries, designing sharing procedures, and executing requests. It is the first step in setting up a strong data governance model and maintaining institutional knowledge of the data sharing process. (test change)
+Identifying who plays each data-related role allows organizations to establish who has the responsibility of fielding external inquiries, designing sharing procedures, and executing requests. It is the first step in setting up a strong data governance model and maintaining institutional knowledge of the data sharing process.
 
 Although the roles below are described separately, sometimes the same person may exercise more than one role. For example, a single contractor may act as both the steward and custodian for the agency's data. In small agencies, the data officer may also fulfill the data owner, custodian, and steward roles. The important takeaway is that the team needs to know who’s the go-to for each set of responsibilities in the data system.
 
