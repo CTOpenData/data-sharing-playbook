@@ -35,4 +35,4 @@ Our research involved:
  * A detailed technology tool review to document the secure channels for data transfer available to Connecticut state agencies
  * Findings from OPM’s [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf)
 
- ![](assets/images/data-sharing-graphic.png)
+ ![](assets/images/overview-of-data-sharing-process.png)
