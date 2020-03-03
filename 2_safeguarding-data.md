@@ -35,3 +35,4 @@ Data owners should also document subsets of PII, such as:
 * Payment Card Industry (PCI) data — credit card information
 * Protected Health Information (PHI) — information about an individual’s health
 * Education records — data maintained by a school about students that includes information like test scores, special education records, courses taken, and attendance
+
