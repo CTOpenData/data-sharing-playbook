@@ -32,6 +32,7 @@ Here are some of the questions to ask when you document a privacy policy:
 Confidential Information (CI) is any non-public information pertaining to the agency’s business. Personally identifiable information (PII) is any data that can be used to identify an individual. Examples of PII include a user’s name, address, phone number, and social security number. 
 
 Data owners should also document subsets of PII, such as:
-* Education records — data maintained by a school about students that includes information like test scores, special education records, courses taken, and attendance
 * Payment Card Industry (PCI) data — credit card information
 * Protected Health Information (PHI) — information about an individual’s health
+* Education records — data maintained by a school about students that includes information like test scores, special education records, courses taken, and attendance
+
