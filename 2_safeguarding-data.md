@@ -5,7 +5,7 @@ permalink: /safeguarding-data/
 nav: true
 ---
 
-# Develop privacy and security compliance policies, standards, and controls.
+## Develop privacy and security compliance policies, standards, and controls.
 
 **Policies** are high-level statements about how data should be handled, similar to a vision statement. **Standards** outline the rules that govern putting policies into action, and **controls** provide specific instructions about how to implement a standard.
 
