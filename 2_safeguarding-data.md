@@ -17,7 +17,7 @@ The points below highlight how to define and understand privacy and security com
 
 ## Establish a privacy policy.
 
-A privacy policy is an externally-facing document for the people you might collect data from. It explains how your agency uses personal information that may be collected when the public interacts with the agency. The privacy policy should include the types of information gathered, how the information is used, to whom the information is disclosed, and how the information is safeguarded. 
+ASDA:SLKDA:LK:LKASD:A:A privacy policy is an externally-facing document for the people you might collect data from. It explains how your agency uses personal information that may be collected when the public interacts with the agency. The privacy policy should include the types of information gathered, how the information is used, to whom the information is disclosed, and how the information is safeguarded. 
 
 Here are some of the questions to ask when you document a privacy policy: 
 * Why do we collect personal information?
