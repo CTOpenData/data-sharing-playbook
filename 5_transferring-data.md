@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tips for Preparing a Successful Data Request
-permalink: /tips-for-preparing-a-successful-data-request/
+title: Transferring Data
+permalink: /transferring-data/
 nav: true
 ---
 
@@ -37,11 +37,13 @@ Data that is open to the public doesn’t require a secure channel for data tran
 | Approved external device | varies | Ask IT department for more information | 
 | Shared network drive | varies | Ask IT department for more information | 
 
+
 ### Zipping 
 To accelerate data transfers and save disk space, zip the data files before initiating a data transfer. To zip a file:
 1. Right-click on the file
 2. Navigate to “Send to” option
 3. Click on Compressed (zipped) folder
+
 
 ### Non-public data
 All data that isn't open to the public should be transferred through secure channels. These data include data governed by HIPAA, FERPA, or state laws and data that are confidential, subject to misuse, or simply not authorized for public consumption due to outstanding approval.
@@ -50,9 +52,9 @@ Failure to transfer non-public data securely may result in harm to citizens, law
 
 | **Technology** | **File size limits** | **Usage notes** | 
 | ----------- | ----------- | ----------- |
-| Government-issued email | 20MB, 35MB | <ul><li>If State employees are sending sensitive or confidential data within the ct.gov network, no encryption is necessary.</li><li>35MB but depends on the recipients size limit also, they could have a 20MB limit.</li></ul>| 
-| Government secure email service | 35MB | <ul><li>If State employees have a need to share sensitive or confidential data outside the ct.gov and po.state.ct.us networks, the user should type `[secure]` in the subject line using the encrypted email service.</li><li>Secure email records will be kept for 30 days.</li><li>If you are unsure that you are using an approved encrypted email service, please contact your IT department/Delegated Admin.</li></ul>| 
-| Government-approved SFTP service | <li>1.5GB - using the web client</li><li>Unlimited - using an approved client</li> | <ul><li>The IT department/Delegated Admin will be needed to set up an SFTP connection and provide instructions on how to upload files.</li><li>Files will be removed from the system after 60 days of inactivity.</li><li>The IT department/Delegated Admin must be informed if a user is planning on uploading a file more than 5GB.</li><li>FileZilla and WinSCP are both approved FTP clients for uploading file sizes larger than 1.5GB</li></ul> | 
+| Government-issued email | 20MB, 35MB | * If State employees are sending sensitive or confidential data within the ct.gov network, no encryption is necessary. * 35MB but depends on the recipients size limit also, they could have a 20MB limit.| 
+| Government secure email service | 35MB | * If State employees have a need to share sensitive or confidential data outside the ct.gov and po.state.ct.us networks, the user should type `[secure]` in the subject line using the encrypted email service. * Secure email records will be kept for 30 days. * If you are unsure that you are using an approved encrypted email service, please contact your IT department/Delegated Admin. | 
+| Government-approved SFTP service | * 1.5GB - using the web client * Unlimited - using an approved client | * The IT department/Delegated Admin will be needed to set up an SFTP connection and provide instructions on how to upload files. * Files will be removed from the system after 60 days of inactivity. * The IT department/Delegated Admin must be informed if a user is planning on uploading a file more than 5GB. * FileZilla and WinSCP are both approved FTP clients for uploading file sizes larger than 1.5GB | 
 | Government-approved Encrypted External Drive | varies | Doesn’t include encrypted personal or even all government-approved flash drives. An encrypted external drive must be approved by the IT department and be password protected to prevent misuse of data if a non-authorized person accesses the drive.| 
 
 ### Zipping and encryption
@@ -63,10 +65,12 @@ To zip a file:
 2. Navigate to “Send to” option
 3. Click on “Compressed (zipped) folder”
 
+
 To encrypt a file:
 1. Right-click on the zipped folder and open Properties.
 2. Under the General tab, click Advanced.
 3. Check the “Encrypt contents to secure data” box.
+
 
 ## Enterprise Secure File Transport Services
 
@@ -82,7 +86,7 @@ DAS/BEST is pleased to offer Executive Branch state agencies our Enterprise Secu
 * Is available 24 X 7 X 365, including critical incident response.
 * Customer support is available from 8:00 AM to 4:00 PM, Monday through Friday.
  
-###Conditions of Use:
+### Conditions of Use:
 Use of our Enterprise Secure File Transport Service has the following conditions:
 * Each agency who has enrolled in this service will need to appoint a primary and alternate SFT Liaison, with whom we will work on matters associated with your agency’s use of this system. The SFT Liaison will be granted an elevated level of permissions to provide basic support to your agency (e.g., password resets, etc.)
 * Content on the SFT environment is considered transitional and is automatically purged after 60 days.
