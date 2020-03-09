@@ -3,6 +3,7 @@ layout: page
 title: Safeguarding Data
 permalink: /safeguarding-data/
 nav: true
+weight: 2
 ---
 
 ## Develop privacy and security compliance policies, standards, and controls.

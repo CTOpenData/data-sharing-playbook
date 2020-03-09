@@ -3,6 +3,7 @@ layout: page
 title: Enabling Data Sharing
 permalink: /enabling-data-sharing/
 nav: true
+weight: 1
 ---
 
 ## Identify who plays each data-related role.

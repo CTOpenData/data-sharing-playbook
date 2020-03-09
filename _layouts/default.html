@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="theme-base-chhs">
+  <body>
 
     <header class="ct-bg-primary-normal ct-py-4">
       <div class="ct-flex ct-flex-col md:ct-flex-row md:ct-items-center ct-px-6">
@@ -13,8 +13,8 @@
 
     <div class="ct-max-w-7xl ct-container ct-mx-auto ct-py-8 md:ct-py-20">
       <div class="ct-flex ct-flex-wrap ct--mx-2">
-        <div class="ct-w-full sm:ct-w-1/3 ct-px-4 ct-mb-10 sm:ct-mb-0">{% include sidebar.html %}</div>
-        <div class="ct-w-full sm:ct-w-2/3 ct-px-4">{{ content }}</div>
+        <div class="ct-w-full print:ct-w-full sm:ct-w-1/3 ct-px-4 ct-mb-10 sm:ct-mb-0">{% include sidebar.html %}</div>
+        <div class="ct-w-full print:ct-w-full sm:ct-w-2/3 ct-px-4">{{ content }}</div>
       </div>
     </div>
 
