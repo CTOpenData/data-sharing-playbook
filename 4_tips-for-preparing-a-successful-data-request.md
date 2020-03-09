@@ -55,7 +55,7 @@ Data owners are accountable for the proper use and security of their data. In or
 ### Recommended reading
 * [Getting Organized: Steps to Take before Negotiating – National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/library/guides/getting-organized-steps-take-negotiating)
 * [Develop security and privacy protocols (later in this playbook)](https://docs.google.com/document/d/1qo8inrsVmyThe3vz7_eoNk0IlgFOJ9Ig3IOrOz5PocM/edit#heading=h.1t3h5sf)
-* [[DATA SYSTEM]: Privacy and Security from the National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/sites/default/files/publications/Example%20Data%20Security%20Plan.pdf)
+* [DATA SYSTEM: Privacy and Security from the National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/sites/default/files/publications/Example%20Data%20Security%20Plan.pdf)
 * [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf)
 * [Understand the laws that govern these critical data elements (later in this playbook)](https://docs.google.com/document/d/1qo8inrsVmyThe3vz7_eoNk0IlgFOJ9Ig3IOrOz5PocM/edit#heading=h.3dy6vkm)
 
