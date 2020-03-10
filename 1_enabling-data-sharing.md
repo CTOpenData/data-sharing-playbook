@@ -110,7 +110,7 @@ First, be open about the limitations of the agency’s data to reduce the likeli
 
 A clearly documented data request process can facilitate successful requests. This section covers some of the supporting documents to develop as part of a comprehensive data request process. 
 
-Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/safeguarding-data/#establish-a-privacy-policy) and [the State Data Plan](https://portal.ct.gov/-/media/CT-Data/Connecticut-State-Data-Plan-Final-pdf.pdf?la=en) guidance to agencies (including the review of state and federal laws and regulations).
+Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/safeguarding-data/#establish-a-privacy-policy/) and the [State Data Plan](https://portal.ct.gov/-/media/CT-Data/Connecticut-State-Data-Plan-Final-pdf.pdf?la=en) guidance to agencies (including the review of state and federal laws and regulations).
 
 ### Request form
 Ensure that the data requester answers the questions below in order to evaluate the benefits and mitigate the risks of sharing data.
