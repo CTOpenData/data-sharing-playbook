@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appendix A: Setting SMART Goals
+title: 'Appendix A: Setting SMART Goals'
 permalink: /setting-smart-goals/
 nav: true
 weight: 6
