@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Appendix C: Linking Datasets'
-permalink: /enabling-data-sharing/
+permalink: /linking-datasets/
 nav: true
 weight: 8
 ---
