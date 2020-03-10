@@ -93,7 +93,7 @@ While awareness of possible bias in data is the first step, the goal is — of c
 
 A clearly documented data request process can facilitate successful requests. This section covers some of the supporting documents to develop as part of a comprehensive data request process. 
 
-Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to Establish a privacy policy and Legal Issues in Interagency Data Sharing Report.
+Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](#establish-a-privacy-policy) and Legal Issues in Interagency Data Sharing Report.
 
 ### Request form
 Ensure that the data requester answers the questions below in order to evaluate the benefits and mitigate the risks of sharing data.
