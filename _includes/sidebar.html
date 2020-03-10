@@ -3,13 +3,9 @@
     <a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.title == "Introduction" %} ct-font-bold{% endif %}" href="{{ site.baseurl }}/">Introduction</a>
 
     <ol>
-    {% assign pages_list = site.pages %}
+    {% assign pages_list = site.pages | where: "layout","page" | where: "nav", true %}
     {% for node in pages_list %}
-      {% if node.nav %}
-        {% if node.layout == "page" %}
-          <li><a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.url == node.url %} ct-font-bold{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ forloop.index }}. {{ node.title }}</a></li>
-        {% endif %}
-      {% endif %}
+      <li><a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.url == node.url %} ct-font-bold{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ forloop.index }}. {{ node.title }}</a></li>
     {% endfor %}
     </ol>
 
