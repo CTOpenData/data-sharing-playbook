@@ -3,6 +3,7 @@ layout: page
 title: Safeguarding Data
 permalink: /safeguarding-data/
 nav: true
+weight: 2
 ---
 
 ## Develop privacy and security compliance policies, standards, and controls.
@@ -17,7 +18,7 @@ The points below highlight how to define and understand privacy and security com
 
 ## Establish a privacy policy.
 
-A privacy policy is an externally-facing document for the people you might collect data from. It explains how your agency uses personal information that may be collected when the public interacts with the agency. The privacy policy should include the types of information gathered, how the information is used, to whom the information is disclosed, and how the information is safeguarded. 
+A privacy policy is an externally-facing document for the people from whom you might collect data. It explains how your agency uses personal information that may be collected when the public interacts with the agency. The privacy policy should include the types of information gathered, how the information is used, to whom the information is disclosed, and how the information is safeguarded. 
 
 Here are some of the questions to ask when you document a privacy policy: 
 * Why do we collect personal information?
