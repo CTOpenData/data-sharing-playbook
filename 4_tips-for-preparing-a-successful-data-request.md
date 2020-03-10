@@ -3,6 +3,7 @@ layout: page
 title: Tips for Preparing a Successful Data Request
 permalink: /tips-for-preparing-a-successful-data-request/
 nav: true
+weight: 4
 ---
 
 The steps below are best practices for making data requests. Data owners are frequently overburdened with daily operations. You can make it as easy as possible for them to fulfill your request by planning carefully and addressing all of the relevant questions up front.

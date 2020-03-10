@@ -3,6 +3,7 @@ layout: page
 title: Transferring Data
 permalink: /transferring-data/
 nav: true
+weight: 5
 ---
 
 ## De-identify data as needed.
