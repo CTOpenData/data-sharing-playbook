@@ -4,10 +4,13 @@ title: Introduction
 home: true
 weight: 0
 ---
+## About the data sharing playbook 
 
 The Office of Policy and Management (OPM) noted in its [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf) that leveraging data from multiple state agencies can improve program administration, policy analysis, research, and performance management. 
 
 In this playbook, we lay out strategies that will help Connecticut state agencies share data safely, securely, and ethically. The strategies are based on best practices from other states, specific examples and methods from Connecticut state agencies, and the recommendations found in OPM’s report. The strategies are focused on interagency data sharing, although many practices will also benefit sharing data with the public.
+
+Note that this playbook is a work in progress and does not represent official IT or technology policy for Connecticut. We will be adding more content and updating the playbook over the coming months.
 
 ## How to use this playbook
 
