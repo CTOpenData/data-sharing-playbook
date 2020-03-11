@@ -156,4 +156,3 @@ A request fee schedule communicates the cost of requesting data. Both the Depart
  * [P20win Fee Schedule](http://www.ct.edu/p20win/request-data) 
 
 [^1]: [Office Of Policy And Management: General Provisions; Budget And Appropriations; State Planning](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p)
-[^2]: [Racial bias in a medical algorithm favors white patients over sicker black patients](https://www.washingtonpost.com/health/2019/10/24/racial-bias-medical-algorithm-favors-white-patients-over-sicker-black-patients/), The Washington Post, 2019
