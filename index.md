@@ -25,7 +25,7 @@ Agencies that seek to request data will benefit from the following sections to i
  * [Tips for Preparing a Successful Data Request](/data-sharing-playbook/tips-for-preparing-a-successful-data-request/)
  * [Identify the type of legal data sharing agreement you’ll need](/data-sharing-playbook/responding-to-data-requests/#identify-the-type-of-legal-data-sharing-agreement-you-will-need)
 
-Finally, we recommend that both parties read the guidance on [tranferring data](/data-sharing-playbook/transferring-data/#choose-the-right-method-for-transferring-data) before transferring data to preserve the confidentiality and integrity of the data being shared. 
+Finally, we recommend that both parties read the guidance on [tranferring data](/data-sharing-playbook/transferring-data/) before transferring data to preserve the confidentiality and integrity of the data being shared. 
 
 ## Methodology
 
