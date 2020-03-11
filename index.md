@@ -13,16 +13,16 @@ In this playbook, we lay out strategies that will help Connecticut state agencie
 
 We recommend that agencies who own data read the following sections in order to build a data sharing framework that respects the laws and regulations that apply to their data:
 
- * [Enabling Data Sharing](/enabling-data-sharing/)
- * [Safeguarding Data](/safeguarding-data/)
- * [Responding to Data Requests](/responding-to-data-requests/)
+ * [Enabling Data Sharing](/data-sharing-playbook/enabling-data-sharing/)
+ * [Safeguarding Data](/data-sharing-playbook/safeguarding-data/)
+ * [Responding to Data Requests](/data-sharing-playbook/responding-to-data-requests/)
 
 Agencies that seek to request data will benefit from the following sections to initiate strong data sharing partnerships:
 
- * [Tips for Preparing a Successful Data Request](/tips-for-preparing-a-successful-data-request/)
+ * [Tips for Preparing a Successful Data Request](/data-sharing-playbook/tips-for-preparing-a-successful-data-request/)
  * [Identify the type of legal data sharing agreement you’ll need](/responding-to-data-requests/#identify-the-type-of-legal-data-sharing-agreement-you-will-need)
 
-Finally, we recommend that both parties read the guidance on [tranferring data](/transferring-data/#choose-the-right-method-for-transferring-data) before transferring data to preserve the confidentiality and integrity of the data being shared. 
+Finally, we recommend that both parties read the guidance on [tranferring data](/data-sharing-playbook/transferring-data/#choose-the-right-method-for-transferring-data) before transferring data to preserve the confidentiality and integrity of the data being shared. 
 
 ## Methodology
 
