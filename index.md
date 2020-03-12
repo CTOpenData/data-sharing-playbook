@@ -22,7 +22,7 @@ We recommend that agencies who own data read the following sections in order to 
 
 Agencies that seek to request data will benefit from the following sections to initiate strong data sharing partnerships:
 
- * [Tips for Preparing a Successful Data Request](/data-sharing-playbook/tips-for-preparing-a-successful-data-request/)
+ * [Preparing a Successful Data Request](/data-sharing-playbook/preparing-a-successful-data-request/)
  * [Identify the type of legal data sharing agreement you’ll need](/data-sharing-playbook/responding-to-data-requests/#identify-the-type-of-legal-data-sharing-agreement-you-will-need)
 
 Finally, we recommend that both parties read the guidance on [tranferring data](/data-sharing-playbook/transferring-data/) before transferring data to preserve the confidentiality and integrity of the data being shared. 
