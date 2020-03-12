@@ -10,7 +10,7 @@ weight: 5
 Depending on the data request, the data owner may need to de-identify data in order to protect the privacy and rights of individuals. There are a number of ways to de-identify data, and these are summarized below.
 
 ### Removing PII and confidential data
-One way to de-identify data is to remove all of the fields that could be used to identify a specific individual from the data. Examples include names, phone numbers, and birthdays. (See the section on PII, PHI, and CI data information.) 
+One way to de-identify data is to remove all of the fields that could be used to identify a specific individual from the data. Examples include names, phone numbers, and birthdays. (For more information about confidential data, see the section [Document critical data elements](/data-sharing-playbook/safeguarding-data/#document-critical-data-elements).) 
 
 ### Aggregating data
 Data owners can also choose to aggregate data. This is accomplished by providing counts of specific fields for a dataset. For example, sensitive fields like birthday and address can be converted to age range and zip code in order to provide the counts of each age group living in a specific area. 
@@ -44,6 +44,7 @@ To accelerate data transfers and save disk space, zip the data files before init
 1. Right-click on the file
 2. Navigate to “Send to” option
 3. Click on Compressed (zipped) folder
+
 
 
 ### Non-public data
@@ -94,4 +95,4 @@ Use of our Enterprise Secure File Transport Service has the following conditions
 * Each agency who has enrolled in this service will need to appoint a primary and alternate SFT Liaison, with whom we will work on matters associated with your agency’s use of this system. The SFT Liaison will be granted an elevated level of permissions to provide basic support to your agency (e.g., password resets, etc.)
 * Content on the SFT environment is considered transitional and is automatically purged after 60 days.
 
-See Appendix B for a step by step guide to using SFTP.
+See [Appendix B](/data-sharing-playbook/steps-to-use-sftp/) for a step by step guide to using SFTP.
