@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tips for Preparing a Successful Data Request
-permalink: /tips-for-preparing-a-successful-data-request/
+title: Preparing a Successful Data Request
+permalink: /preparing-a-successful-data-request/
 nav: true
 weight: 4
 ---
@@ -12,7 +12,7 @@ The steps below are best practices for making data requests. Data owners are fre
 Before you can make an effective data request, you need to know exactly what you are looking for and why. Below are some questions to answer before moving forward. 
 
 ### “What is the overarching goal or objective that I want to accomplish?” 
-Knowing what you want before turning to data is a prerequisite to effective data use. For tips on writing goals and objectives that map clearly to specific types of data, see Appendix A: Setting SMART goals. 
+Knowing what you want before turning to data is a prerequisite to effective data use. For tips on writing goals and objectives that map clearly to specific types of data, see [Appendix A: Setting SMART goals](/data-sharing-playbook/setting-smart-goals/). 
 
 ### “What do I want to find out or measure?” 
 If you are conducting an experiment, then the data might be response statistics. If you are looking through financial or budgetary data, it might be spending trends, projections, and forecasts. Other situations will call for other kinds of measurements, but thinking about what you expect to find — or even the nature of answer you are looking for — will help you identify the most relevant metrics. Some examples of suitable research questions for your data include:
@@ -55,10 +55,10 @@ Data owners are accountable for the proper use and security of their data. In or
 
 ### Recommended reading
 * [Getting Organized: Steps to Take before Negotiating – National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/library/guides/getting-organized-steps-take-negotiating)
-* [Develop security and privacy protocols (later in this playbook)](https://docs.google.com/document/d/1qo8inrsVmyThe3vz7_eoNk0IlgFOJ9Ig3IOrOz5PocM/edit#heading=h.1t3h5sf)
+* [Safeguarding Data: Develop privacy and security compliance policies, standards, and controls](/data-sharing-playbook/safeguarding-data/#develop-privacy-and-security-compliance-policies-securities-and-controls)
 * [DATA SYSTEM: Privacy and Security from the National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/sites/default/files/publications/Example%20Data%20Security%20Plan.pdf)
 * [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf)
-* [Understand the laws that govern these critical data elements (later in this playbook)](https://docs.google.com/document/d/1qo8inrsVmyThe3vz7_eoNk0IlgFOJ9Ig3IOrOz5PocM/edit#heading=h.3dy6vkm)
+* [Safeguarding Data: Understand the laws that govern these critical data elements](/data-sharing-playbook/safeguarding-data/#understand-the-laws-that-govern-critical-data-elements)
 
 ## Make the case for data sharing.
 An effective data request starts with a clear description of why the requested data is important to both parties’ missions and what you plan to achieve with the data. Understand the data owner’s possible motivation to take on the data sharing project: 
