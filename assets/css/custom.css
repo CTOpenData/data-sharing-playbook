@@ -1,0 +1,45 @@
+.ct-prose table {
+  border: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.ct-prose thead {
+  border-bottom: 1px solid #ccc;
+}
+
+.ct-prose th, .ct-prose td {
+  padding: 0.5rem 0.7rem;
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+.ct-prose td {
+  vertical-align: top;
+}
+
+.ct-prose tr td:first-child {
+  width: 30%;
+}
+
+.ct-prose tr td:last-child {
+  width: 45%;
+}
+
+.ct-prose tr:not(:first-child) {
+  border-top: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.ct-prose td ul {
+  margin-left: 0;
+  list-style: none;
+}
+
+.ct-prose td li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+@media print {
+  .print\:ct-w-full{width:100%; margin-bottom: 5rem;}
+  hr {page-break-after: always;}
+}
