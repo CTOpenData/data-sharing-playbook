@@ -6,17 +6,17 @@ nav: true
 weight: 3
 ---
 
-Having an established protocol for responding to a request for data will save you time and effort (see Develop a data request process). The following suggestions will help you respond smoothly to different types of requests. 
+Having an established protocol for responding to a request for data will save you time and effort (see [Develop a data request process](/data-sharing-playbook/enabling-data-sharing/#develop-a-data-request-process)). The following suggestions will help you respond smoothly to different types of requests. 
 
 ## Ask key questions up front.
 
-Establish a process for how key questions are asked, answered, and documented. We’ve included a detailed list of questions to ask in the section above about developing a request process, but here are the main areas to cover: 
+Establish a process for how key questions are asked, answered, and documented. We’ve included a detailed list of questions to ask in the section above about [developing a request process](/data-sharing-playbook/enabling-data-sharing/#develop-a-data-request-process), but here are the main areas to cover: 
 * What is the purpose of the request?
 * How does the requester plan to use the data?
 * Who will have access to the data?
 * What is the specific data they are requesting and what are the specific parameters?
 
-If the requester is planning to combine data with another dataset, this will require careful review and consideration from both teams. This could be a complex process and we’ve included some discussion of data linking in Appendix B. 
+If the requester is planning to combine data with another dataset, this will require careful review and consideration from both teams. This could be a complex process and we’ve included some discussion of data linking in [Appendix C](/data-sharing-playbook/linking-datasets/). 
 
 ## Identify the type of legal data sharing agreement you will need. 
 
@@ -107,6 +107,6 @@ In these cases, the SOW contract, BAA, or MOU forces the contractor to abide by 
 
 ### Government to public
 Releasing data to the public does not require a special agreement. However, it does require that the government organization:
-* Aggregate or anonymize the data to prevent misuse. For an example, see the public data on Connecticut's Open Data Portal.
-- If the agency determines the data must be anonymized or aggregated, they should follow cell suppression techniques outlined on the Connecticut Agency Guidance Portal. Cell suppression is an important means of masking attributes of personally identifying or protected health information that could become damaging to an individual if the data were used (possibly in combination with other datasets) to identify them.
-* Follow all relevant laws or prior agreements for the release of private information. For an example, check out the Department of Justice’s Public Records.
+* Aggregate or anonymize the data to prevent misuse. For an example, see the public data on [Connecticut's Open Data Portal](https://data.ct.gov).
+- If the agency determines the data must be anonymized or aggregated, they should follow cell suppression techniques outlined on the [Connecticut Agency Guidance Portal](https://portal.ct.gov/-/media/CT-Data/Data-Aggregation-Guidance.docx?la=en). Cell suppression is an important means of masking attributes of personally identifying or protected health information that could become damaging to an individual if the data were used (possibly in combination with other datasets) to identify them.
+* Follow all relevant laws or prior agreements for the release of private information. For an example, check out the [Department of Justice’s Public Records](https://www.jud.ct.gov/lawlib/publicrecords.htm).
