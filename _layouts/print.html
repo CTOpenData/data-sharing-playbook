@@ -1,15 +1,25 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en-us">
 
-{% assign sorted = site.pages | sort: 'weight' %}
+{% include head.html %}
 
-{% for page in sorted %}  
-  {% if page.weight %}
-    <h1 class="ct-text-3xl md:ct-text-4xl ct-font-bold ct-text-primary-dark ct-mb-4">{{ page.title }}</h1>
-    <div class="ct-text-l sm:ct-text-xl ct-prose">
-      {{ page.content }}
+<body>
+
+  <div class="ct-max-w-7xl ct-container ct-mx-auto ct-py-8 md:ct-py-20">
+    <div class="ct-flex ct-flex-wrap ct--mx-2">
+      <div class="ct-w-full print:ct-w-full sm:ct-w-2/3 ct-px-4">
+        {% assign sorted = site.pages | sort: 'weight' %}
+
+        {% for page in sorted %}
+        {% if page.weight %}
+        <h1 class="ct-text-3xl md:ct-text-4xl ct-font-bold ct-text-primary-dark ct-mb-4">{{ page.title }}</h1>
+        <div class="ct-text-l sm:ct-text-xl ct-prose">
+          {{ page.content }}
+        </div>
+        {% endif %}
+        {% endfor %}
+
+      </div>
     </div>
-    <hr class="ct-my-20" />
-  {% endif %}
-{% endfor %}
+  </div>
+</body>
