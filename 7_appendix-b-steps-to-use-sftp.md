@@ -12,7 +12,11 @@ weight: 7
  
 3. Log into the SFTP site. Once your account has been set up, go to https://sft.ct.gov and log in. Be aware that the username and password are case sensitive. 
 
+![](assets/images/sftp_1.png) 
+
 4. Work with your SFT Liaison to set up folders to organize the files you wish to transfer. The SFT Liaison can set up folders for specific data transfers, and then grant access to the desired folders to the recipient of your data transfer. 
+
+![](assets/images/sftp_2.png) 
 
 5. Make sure the person you want to share data with also has SFTP access. If the person with whom you want to share data is at another Connecticut state agency, their SFT Liaison must grant them access to the SFTP site. Once they have access, your SFT Liaison should be able to give them access to the folder with the files you wish to share. Your SFT Liaison should also be able to help you share files with a partner outside of state government. 
 
