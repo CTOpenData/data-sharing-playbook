@@ -135,7 +135,7 @@ It’s important to have a way to show the data sharing process from start to fi
 
 #### Examples 
 
- * [Vital Records Data Request Process](https://drive.google.com/a/skylight.digital/file/d/1dppSUqWl3DixCaf-3eeRkJR-qeLD7c-G/view?usp=drivesdk)
+ * [Vital Records Data Request Process](/assets/documents/Vital-Records-Flow.pdf)
  * [P20win Data Request Process](http://www.ct.edu/p20win/request-data)
 
 ### Data dictionary
@@ -152,7 +152,7 @@ A request fee schedule communicates the cost of requesting data. Both the Depart
 
 #### Examples
 
- * [Vital Records Request Fees](https://docs.google.com/file/d/16bBrsuj0HBObak3phlDreqEHg3xpqNN_/edit?usp=docslist_api&filetype=msword)
+ * [Vital Records Request Fees](/assets/documents/SAR-Data-Request-Fee-Schedule.docx)
  * [P20win Fee Schedule](http://www.ct.edu/p20win/request-data) 
 
 [^1]: [Office Of Policy And Management: General Provisions; Budget And Appropriations; State Planning](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p)
