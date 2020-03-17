@@ -66,7 +66,7 @@ When tracking metadata, it’s important to:
 * [Metadata guidelines for publishers on data.ct.gov](https://portal.ct.gov/-/media/CT-Data/Metadata-Guidelines.docx?la=en)
  * [P20WIN Data Dictionary](https://www.ct.edu/files/pdfs/p20win/P20WIN_Data_Dictionary.xlsx)
  * [Manually creating a data dictionary](https://data.nal.usda.gov/manually-creating-data-dictionary)
- * [Smithsonian Data Management Best Practices](https://data.nal.usda.gov/manually-creating-data-dictionary) 
+ * [Smithsonian Data Management Best Practices(https://library.si.edu/sites/default/files/tutorial/pdf/citationmetadata20180226.pdf) 
 
 ## Update Connecticut’s High Value Data Inventory.
 [Connecticut’s High Value Data Inventory (Non GIS)](https://data.ct.gov/Government/2019-CT-Data-Catalog-Non-GIS-/f6rf-n3ke/) and [Connecticut’s High Value Data Inventory (GIS)](https://data.ct.gov/Government/2019-CT-Data-Catalog-GIS-/kr39-sdfm/) are data catalogs that highlight general information about high-value datasets. The annual maintenance of the high value data inventories is required by P.A. 18-175. At the end of each year, OPM will reach out to agencies to provide updates by December 31 of that year. By keeping your agency’s datasets up to date in the catalog, you help other agencies and the public understand what data your agency owns and who to contact for more information.
