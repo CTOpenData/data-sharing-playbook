@@ -20,7 +20,7 @@ The role of agency data officer was established in Connecticut by [Public Act 18
 
 ### Data owner 
 
-The data owner is accountable for the quality and security of the data and holds the decision-making authority about data within their domain. The data owner varies by dataset and there may be multiple data owners. For some datasets, a data officer is the data owner, and in others, it may be the program lead.
+The data owner is accountable for the quality and security of the data and holds the decision-making authority about data within their domain. The data owner varies by dataset, and there may be multiple data owners. For some datasets, a data officer is the data owner, and in others, it may be the program lead.
 
 ### Data steward 
 
@@ -47,9 +47,9 @@ A publicly-available data dictionary helps requesters understand what data your 
 
 ## Document metadata.
 
-Metadata is a set of information that describes what the fields in a dataset are. It provides data about your data. It includes information such as when and how the data was gathered or any other information that might describe an aspect of the data. It is important to keep detailed notes on the metadata and process by which the data was collected, because this information can facilitate easier and more effective use later on. 
+Metadata is a set of information that describes the fields in a dataset. It provides data about your data. It includes information such as when and how the data was gathered or any other information that might describe an aspect of the data. It is important to keep detailed notes on the metadata and process by which the data was collected because this information can facilitate easier and more effective use later on. 
 
-One common misconception about metadata is that it is solely the definitions of the various fields you’ve tracked in the dataset. However, metadata includes much more than these surface-level characteristics. Anything that gives additional information about the nature, structure, or gathering process of the dataset counts as metadata. Some examples of metadata for different types of media include:
+One common misconception about metadata is that it is solely the definitions of the various fields in a dataset. However, metadata includes much more than these surface-level characteristics. Anything that gives additional information about the nature, structure, or gathering process of the dataset counts as metadata. Some examples of metadata for different types of media include:
 
 * **Photographs / images**: date and time the photo was taken, who took the photo, location where the image was captured, and camera settings used to take the photo
 * **Books / reports / documents**: title, author, publishing information, year of publication, table of contents, index, date of last update / modification, and number of pages
@@ -57,19 +57,19 @@ One common misconception about metadata is that it is solely the definitions of 
 * **Spreadsheets / databases**: names of column fields, explanation of fields, number of users / respondents surveyed, number of missing data entries, integrity constraints, data types included in the table, and date and time the information was collected (including multiple records if gathered over a period of time)
 
 When tracking metadata, it’s important to:
-* Document as much information as you can about the higher-level aspects of a dataset: its source, its update frequency, timestamps of collection, expected level of detail, explanations of tags, data quality, etc.
+* Document as much information as you can about the higher-level aspects of a dataset: its source, update frequency, timestamps of collection, expected level of detail, explanations of tags, data quality, etc.
 * Be consistent about the language you use to describe metadata
 * Avoid acronyms and language that might be specific to you or your agency, since metadata can help recipients of data sharing understand what a dataset is all about
 
 
 ### Recommended reading
 * [Metadata guidelines for publishers on data.ct.gov](https://portal.ct.gov/-/media/CT-Data/Metadata-Guidelines.docx?la=en)
- * [P20WIN Data Dictionary](https://www.ct.edu/files/pdfs/p20win/P20WIN_Data_Dictionary.xlsx)
+ * [P20 WIN Data Dictionary](https://www.ct.edu/files/pdfs/p20win/P20WIN_Data_Dictionary.xlsx)
  * [Manually creating a data dictionary](https://data.nal.usda.gov/manually-creating-data-dictionary)
  * [Smithsonian Data Management Best Practices](https://library.si.edu/sites/default/files/pdf/rdm_best_practices.pdf) 
 
 ## Update Connecticut’s High Value Data Inventory.
-[Connecticut’s High Value Data Inventory (Non GIS)](https://data.ct.gov/Government/2019-CT-Data-Catalog-Non-GIS-/f6rf-n3ke/) and [Connecticut’s High Value Data Inventory (GIS)](https://data.ct.gov/Government/2019-CT-Data-Catalog-GIS-/kr39-sdfm/) are data catalogs that highlight general information about high-value datasets. The annual maintenance of the high value data inventories is required by P.A. 18-175. At the end of each year, OPM will reach out to agencies to provide updates by December 31 of that year. By keeping your agency’s datasets up to date in the catalog, you help other agencies and the public understand what data your agency owns and who to contact for more information.
+[Connecticut’s High Value Data Inventory (Non GIS)](https://data.ct.gov/Government/2019-CT-Data-Catalog-Non-GIS-/f6rf-n3ke/) and [Connecticut’s High Value Data Inventory (GIS)](https://data.ct.gov/Government/2019-CT-Data-Catalog-GIS-/kr39-sdfm/) are data catalogs that highlight general information about high-value datasets possessed by state agencies. The annual maintenance of the high value data inventories is required by P.A. 18-175. At the end of each year, OPM will reach out to agencies to provide updates by December 31 of that year. By keeping your agency’s datasets up to date in the catalog, you help other agencies and the public understand what data your agency owns and who to contact for more information.
 
 To update the inventory, email both [scott.gaul@ct.gov](mailto:scott.gaul@ct.gov) and [pauline.zaldonis@ct.gov](mailto:pauline.zaldonis@ct.gov) with the subject line “CT High Value Data Inventory Change Request.”
 
@@ -83,7 +83,7 @@ The data that government agencies, academic researchers, and other organizations
 * **Whose data isn’t collected** — Does the data leave out a specific demographic group that might not frequent the service where the data is collected?  
 * **How the data is collected** — For example, is the data collected via interview in one area and via a form somewhere else?
 
-Consider possible sources of bias in your agency’s data carefully. If you don’t identify possible bias, communicate it to data requesters, and work to reduce it, the decisions made based on your data may have unintended, serious societal implications. 
+Consider possible sources of bias in your agency’s data carefully. If you don’t identify possible bias, communicate it to data requesters, and work to reduce it, the decisions made based on your data may have serious unintended societal implications. 
 
 ### Here’s an example of how implicit bias can have unintended consequences:
 
@@ -110,7 +110,7 @@ First, be open about the limitations of the agency’s data to reduce the likeli
 
 A clearly documented data request process can facilitate successful requests. This section covers some of the supporting documents to develop as part of a comprehensive data request process. 
 
-Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data/#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/CTData/Content/Agency-Guidance), including the appendices reviewing state and federal laws and regulations.
+Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data/#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf), including the appendices reviewing state and federal laws and regulations.
 
 ### Request form
 Ensure that the data requester answers the questions below in order to evaluate the benefits and mitigate the risks of sharing data.
@@ -133,12 +133,12 @@ Ensure that the data requester answers the questions below in order to evaluate 
 
 ### Flow diagram or detailed narrative of the steps 
 
-It’s important to have a way to show the data sharing process from start to finish. Common ways include using a flow diagram or descriptions for each step. 
+It’s important to have a way to illustrate or describe the data sharing process from start to finish. Common approaches include using a flow diagram or descriptions for each step. 
 
 #### Examples 
 
  * [Vital Records Data Request Process](/assets/documents/Vital-Records-Flow.pdf)
- * [P20win Data Request Process](http://www.ct.edu/p20win/request-data)
+ * [P20 WIN Data Request Process](http://www.ct.edu/p20win/request-data)
 
 ### Data dictionary
 
@@ -146,7 +146,7 @@ A data dictionary describes the agency’s data. (See [Create and publish a data
 
 #### Examples
 
- * [P20Win Data Dictionary](http://www.ct.edu/files/pdfs/p20win/P20WIN_Data_Dictionary.xlsx)
+ * [P20 WIN Data Dictionary](http://www.ct.edu/files/pdfs/p20win/P20WIN_Data_Dictionary.xlsx)
 
 ### Data request fees
 
@@ -155,7 +155,7 @@ A request fee schedule communicates the cost of requesting data. Both the Depart
 #### Examples
 
  * [Vital Records Request Fees](/assets/documents/SAR-Data-Request-Fee-Schedule.docx)
- * [P20win Fee Schedule](http://www.ct.edu/p20win/request-data) 
+ * [P20 WIN Fee Schedule](http://www.ct.edu/p20win/request-data) 
 
 [^1]: [Office Of Policy And Management: General Provisions; Budget And Appropriations; State Planning](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p)
 [^2]: [Racial bias in a medical algorithm favors white patients over sicker black patients](https://www.washingtonpost.com/health/2019/10/24/racial-bias-medical-algorithm-favors-white-patients-over-sicker-black-patients/), The Washington Post, 2019
