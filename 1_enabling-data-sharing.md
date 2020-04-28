@@ -16,7 +16,7 @@ Although the roles below are described separately, the same person may exercise 
 
 Agency data officers serve as the main contact person for inquiries, requests, or concerns regarding access to the data of an agency. The agency data officer, in consultation with the Chief Data Officer and the executive agency head, establishes procedures to ensure that the agency complies with requests for data in an appropriate and prompt manner. [^1]
 
-The role of agency data officer was established in Connecticut by Public Act 18-175, which required executive branch agencies to designate an employee to serve as the primary contact for inquiries, requests, and concerns about access to data at their agency, and to be responsible for implementing the provisions of P.A. 18-175. [See the list of agency data officers.](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx)
+The role of agency data officer was established in Connecticut by [Public Act 18-175](https://www.cga.ct.gov/2018/ACT/pa/pdf/2018PA-00175-R00HB-05517-PA.pdf), which required executive branch agencies to designate an employee to serve as the primary contact for inquiries, requests, and concerns about access to data at their agency, and to be responsible for implementing the provisions of P.A. 18-175. [See the list of agency data officers.](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx)
 
 ### Data owner 
 
@@ -40,8 +40,8 @@ This person or team develops and implements policies and procedures to protect i
 
 ## Create and publish a data dictionary.
 
-A publicly available data dictionary helps requesters understand what data your agency owns. It can also help them craft requests that reference specific tables and fields, making the request easier to fulfill. The data dictionary should:
-* Describe all of the datasets your agency is responsible for
+A publicly-available data dictionary helps requesters understand what data your agency collects and possesses. It can also help them craft requests that reference specific tables and fields, making the request easier to fulfill. The data dictionary should:
+* Describe all of the datasets for which your agency is responsible
 * Contain information on how each of the datasets was collected
 * Define the individual fields in each of the datasets
 
@@ -93,7 +93,7 @@ Researchers discovered that a major health provider’s algorithm favored white 
 
 Data analysts are ultimately responsible for how they use your agency’s data; however, as the data owners and experts, you can help data analysts avoid biases in data that perpetuate racism, sexism, and other forms of discrimination. 
 
-First, be open about the limitations of the agency’s data to reduce the likelihood that it will be used in ways that have unintended consequences. Second, works towards systemic changes to data collection practices. Finally, require data requesters to demonstrate responsible use of your agency’s data. The recommended reading below provides guidance on identifying and eliminating sources of implicit bias. 
+First, be open about the limitations of the agency’s data to reduce the likelihood that it will be used in ways that have unintended consequences. Second, work towards systemic changes to data collection practices. Finally, require data requesters to demonstrate responsible use of your agency’s data. The recommended reading below provides guidance on identifying and eliminating sources of implicit bias. 
 
 ### Recommended reading
 
@@ -110,16 +110,18 @@ First, be open about the limitations of the agency’s data to reduce the likeli
 
 A clearly documented data request process can facilitate successful requests. This section covers some of the supporting documents to develop as part of a comprehensive data request process. 
 
-Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data/#establish-a-privacy-policy) and the [State Data Plan](https://portal.ct.gov/-/media/CT-Data/Connecticut-State-Data-Plan-Final-pdf.pdf?la=en) guidance to agencies.
+Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data/#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf), including the appendices reviewing state and federal laws and regulations.
 
 ### Request form
 Ensure that the data requester answers the questions below in order to evaluate the benefits and mitigate the risks of sharing data.
 
-* What is the requestor's contact information and organization?
+* What is the requester's contact information and organization?
 * What is the purpose of the request?
 * How does the requester plan to use the data?
 * Who will have access to the data?
 * What are the specific data they are requesting, and what are the specific parameters, such as individual or aggregate data and over what time period?
+* How will the data be used? What methods will be used in the analysis of the data?
+* How will results be reported? With whom will they be shared? How will they be disseminated? 
 * How frequently will this data be needed? For example, is this a one-time need or a recurring need?
 * How long is the requester seeking to keep the data? When and how will the data be destroyed? How is this reported or disseminated to the data owner?
 
@@ -148,7 +150,7 @@ A data dictionary describes the agency’s data. (See [Create and publish a data
 
 ### Data request fees
 
-A request fee schedule communicates the cost of requesting data. Both the Department of Public Health and P20 WIN have fee schedules, but each agency may have unique procedures for enacting request fees. We recommend that you consult your agency’s legal counsel for specific guidance on fee schedules. 
+A request fee schedule communicates the cost of requesting data. Both the Department of Public Health and P20-WIN have fee schedules, but each agency may have unique procedures for enacting request fees. We recommend that you consult your agency’s legal counsel for specific guidance on fee schedules. 
 
 #### Examples
 
