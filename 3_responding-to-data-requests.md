@@ -111,7 +111,7 @@ Releasing data to the public does not require a special agreement. However, it d
 - If the agency determines the data must be anonymized or aggregated, they should follow cell suppression techniques outlined on the [Connecticut Agency Guidance Portal](https://portal.ct.gov/-/media/CT-Data/Data-Aggregation-Guidance.docx?la=en). Cell suppression is an important means of masking attributes of personally identifying or protected health information that could become damaging to an individual if the data were used (possibly in combination with other datasets) to identify them.
 * Follow all relevant laws or prior agreements for the release of private information. For an example, check out the [Department of Justice’s Public Records](https://www.jud.ct.gov/lawlib/publicrecords.htm).
 
-#### Footnotes 
+### Footnotes 
 
 [^3]: [The Practical Playbook: Building Multisector Partnerships That Work](https://www.practicalplaybook.org/)
 [^4]: [Legal Guide to Administrative Data Sharing for Economic and Workforce Development](http://www.statedatasharing.org/data-sharing/2018-03_-_SDS_Legal_Guide_to_Administrative_Data_Sharing_for_Economic_and_Workforce_Development.pdf), State Data Sharing Initiative, March 2018
