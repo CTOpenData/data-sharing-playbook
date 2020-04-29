@@ -45,7 +45,7 @@ State agencies need to understand the laws that govern each dataset based on its
 * How data are transferred
 * How data are disposed of
 
-For more information about applicable federal and state laws, refer to the Legal Issues in Interagency Data Sharing Report and accompanying appendices.  
+For more information about applicable federal and state laws, refer to the [Legal Issues in Interagency Data Sharing report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf) and accompanying appendices.  
 
 ### Recommended reading
 * [The Health Insurance Information Portability and Accountability Act of 1966 (HIPAA): Implications for Research with Administrative Records](https://www.datanetwork.org/wp-content/uploads/CDN-HIPAA-Overview_Final.pdf), Children’s Data Network at the University of Southern California, 2016
@@ -53,7 +53,7 @@ For more information about applicable federal and state laws, refer to the Legal
 
 ## Define acceptable use standards.
 
-Define acceptable use standards based on the laws and regulations that govern the use of your agency’s data. These standards will help define the specific requirements in data sharing agreements for keeping data secure. For example, for sensitive data, the data owner may require that the requesting party dispose of the data after a specific time frame. 
+Define acceptable use standards based on the laws and regulations that govern the use of your agency’s data. These standards will help define the specific requirements in data sharing agreements for keeping data secure. For example, for sensitive data, the data owner may require that the requesting party dispose of the data after a specific amount of time. 
 
 ## Develop, implement, and maintain a comprehensive data-security program.
 
@@ -63,8 +63,8 @@ The data-security program should cover considerations like:
 * A security policy for employees related to the storage, access, and transportation of data containing confidential information
 * Reasonable restrictions on access to records containing confidential information, including access to any locked storage where such records are kept
 * A process for reviewing policies and security measures at least annually
-* Creating secure access controls to confidential information, including but not limited to passwords
-* Encrypting of confidential information that is stored on laptops or portable devices or that is being transmitted electronically
+* The creation of secure access controls to confidential information, including but not limited to passwords
+* Encryption of confidential information that is stored on laptops or portable devices or that is being transmitted electronically
 
 ## Enforce compliance controls.
 
