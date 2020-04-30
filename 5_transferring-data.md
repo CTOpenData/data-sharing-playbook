@@ -7,7 +7,7 @@ weight: 5
 ---
 
 ## De-identify data as needed.
-Depending on the data request, the data owner may need to de-identify data in order to protect the privacy and rights of individuals. There are a number of ways to de-identify data, and these are summarized below.
+Depending on the data request, the data owner may need to de-identify data in order to protect the privacy and rights of the individuals represented in the data. There are a number of ways to de-identify data, and these are summarized below.
 
 ### Removing PII and confidential data
 One way to de-identify data is to remove all of the fields that could be used to identify a specific individual from the data. Examples include names, phone numbers, and birthdays. (For more information about confidential data, see the section [Document critical data elements](/data-sharing-playbook/safeguarding-data/#document-critical-data-elements).) 
@@ -39,26 +39,15 @@ Data that is open to the public doesn’t require a secure channel for data tran
 | Shared network drive | varies | Ask IT department for more information | 
 
 
-### Zipping 
-To accelerate data transfers and save disk space, zip the data files before initiating a data transfer. To zip a file:
-1. Right-click on the file
-2. Navigate to “Send to” option
-3. Click on Compressed (zipped) folder
-
-
-
 ### Non-public data
 All data that isn't open to the public should be transferred through secure channels. These data include data governed by HIPAA, FERPA, or state laws and data that are confidential, subject to misuse, or simply not authorized for public consumption due to outstanding approval.
 
 Failure to transfer non-public data securely may result in harm to citizens, lawsuits filed against the responsible government office, and severe professional consequences for the offending employee. It’s important to pay careful attention when sharing non-public data. Secure channels include:
 
 | **Technology** | **File size limits** | **Usage notes** | 
-| ----------- | ----------- | ----------- |
-| Government-issued email | 20MB, 35MB |{::nomarkdown}<ul><li>If State employees are sending sensitive or confidential data within the ct.gov network, no encryption is necessary.</li><li>35MB but depends on the recipients size limit also, they could have a 20MB limit.</li></ul>{:/}| 
-| Government secure email service | 35MB |{::nomarkdown}<ul><li>If State employees have a need to share sensitive or confidential data outside the ct.gov and po.state.ct.us networks, the user should type `[secure]` in the subject line using the encrypted email service.</li><li>Secure email records will be kept for 30 days.</li><li>If you are unsure that you are using an approved encrypted email service, please contact your IT department/Delegated Admin.</li></ul>{:/}| 
+| ----------- | ----------- | ----------- | 
 | Government-approved SFTP service |{::nomarkdown}<ul><li>1.5GB - using the web client</li><li>Unlimited - using an approved client</li></ul>{:/}|{::nomarkdown}<ul><li>The IT department/Delegated Admin will be needed to set up an SFTP connection and provide instructions on how to upload files.</li><li>Files will be removed from the system after 60 days of inactivity.</li><li>The IT department/Delegated Admin must be informed if a user is planning on uploading a file more than 5GB.</li><li>FileZilla and WinSCP are both approved FTP clients for uploading file sizes larger than 1.5GB</li></ul>{:/}| 
 | Government-approved Encrypted External Drive | varies |{::nomarkdown}<ul><li>Doesn’t include encrypted personal or even all government-approved flash drives. An encrypted external drive must be approved by the IT department and be password protected to prevent misuse of data if a non-authorized person accesses the drive.</li></ul>{:/}| 
-
 
 
 ### Zipping and encryption
