@@ -13,13 +13,13 @@ DAS/BEST offers an Enterprise Secure File Transport (SFT) Service for executive 
 2. Ask your SFT Liaison to set you up with SFTP access. They should be able to grant you access and tell you how to log on. Your username and password should be the same as the ones you use to log into Windows, but you should confirm this with your SFT Liaison.
  
 3. Log into the SFTP site. Once your account has been set up, go to https://sft.ct.gov and log in. Be aware that the username and password are case sensitive. 
-```
-![](assets/images/sftp_1.png) 
-```
+
+    ![](assets/images/sftp_1.png) 
+
 4. Work with your SFT Liaison to set up folders to organize the files you wish to transfer. The SFT Liaison can set up folders for specific data transfers, and then grant access to the desired folders to the recipient of your data transfer. 
-```
-![](assets/images/sftp_2.png) 
-```
+
+    ![](assets/images/sftp_2.png) 
+
 5. Make sure the person you want to share data with also has SFTP access. If the person with whom you want to share data is at another Connecticut state agency, their SFT Liaison must grant them access to the SFTP site. Once they have access, your SFT Liaison should be able to give them access to the folder with the files you wish to share. Your SFT Liaison should also be able to help you share files with a partner outside of state government. 
 
 6. Ask your SFT Liaison to give the data recipient access to the folder on the SFTP site where your data is saved. Once you both have access to the shared folder, you should be able to use that folder to transfer files.
