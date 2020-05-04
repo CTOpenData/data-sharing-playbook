@@ -44,6 +44,7 @@ A publicly-available data dictionary helps requesters understand what data your 
 * Describe all of the datasets for which your agency is responsible
 * Contain information on how each of the datasets was collected
 * Define the individual fields in each of the datasets
+* Indicate levels of access for each of the datasets, including which data is alreaddy open, which data is restricted, and which should not be used, or is not available
 
 ## Document metadata.
 
