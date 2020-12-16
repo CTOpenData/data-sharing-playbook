@@ -19,7 +19,7 @@ Probabilistic data linking combines individual records using a special algorithm
 ### Blocking
 When comparing two datasets, checking every single possible pair is computationally taxing. For example, two datasets each containing 100 records would require 10,000 pairwise comparisons. Pairwise comparisons quickly become unmanageable when linking two administrative datasets.
 
-Blocking solves this computational challenge by only comparing pairs that are likely to matching according to particular fields. For example, by using age for blocking, only records with the same birth year are compared to each other. A common strategy is to run mulitple block passes because some of missing or erroneous fields. The [Australian Government's Open Data Toolkit] (https://toolkit.data.gov.au/Data_Linking_Information_Series_Sheet_4:_Probabilistic_linking.html) 
+Blocking solves this computational challenge by only comparing pairs that are likely to match according to particular fields. For example, by using age for blocking, only records with the same birth year are compared to each other. A common strategy is to run mulitple block passes because some of missing or erroneous fields. The [Australian Government's Open Data Toolkit](https://toolkit.data.gov.au/Data_Linking_Information_Series_Sheet_4:_Probabilistic_linking.html) 
 provides a table of fields to consider when blocking.
 
 ### Deduplication 
@@ -29,7 +29,7 @@ provides a table of fields to consider when blocking.
 * [Linkage Feasibility—To Link or Not To Link](https://www.ncbi.nlm.nih.gov/books/NBK253318/)
 * [Data Matching Software Tools](https://github.com/J535D165/data-matching-software)
 * [Improving deduplication of identities](http://www.datasciencepublicpolicy.org//wp-content/uploads/2018/11/dedupewhitepaper.pdf)
-* [Linking Administrative Data: Strategies and Methods] (https://github.com/californiapolicylab/data-linking/blob/master/Data%20Linking%20-%20white%20paper%20-%2012%2018%2018%20-%20FINAL.pdf)
-* [Challenges in administrative data linkage for research] (https://journals.sagepub.com/doi/10.1177/2053951717745678)
+* [Linking Administrative Data: Strategies and Methods](https://github.com/californiapolicylab/data-linking/blob/master/Data%20Linking%20-%20white%20paper%20-%2012%2018%2018%20-%20FINAL.pdf)
+* [Challenges in administrative data linkage for research](https://journals.sagepub.com/doi/10.1177/2053951717745678)
 ### Active Research and Development 
 * 
