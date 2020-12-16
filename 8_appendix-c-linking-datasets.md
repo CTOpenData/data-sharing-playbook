@@ -19,7 +19,7 @@ Probabilistic data linking combines individual records using a special algorithm
 ### Blocking
 When comparing two datasets, checking every single possible pair is computationally taxing. For example, two datasets each containing 100 records would require 10,000 pairwise comparisons. Pairwise comparisons quickly become unmanageable when linking two administrative datasets.
 
-Blocking solves this computational challenge by only comparing pairs that are likely to match according to particular fields. For example, by using age for blocking, only records with the same birth year are compared to each other. A common strategy is to run mulitple block passes because some of missing or erroneous fields. The [Australian Government's Open Data Toolkit](https://toolkit.data.gov.au/Data_Linking_Information_Series_Sheet_4:_Probabilistic_linking.html) 
+Blocking solves this computational challenge by only comparing pairs that are likely to match according to particular fields. For example, by using age for blocking, only records with the same birth year are compared to each other. A common strategy is to run mulitple block passes because some fields are missing or erroneous. The [Australian Government's Open Data Toolkit](https://toolkit.data.gov.au/Data_Linking_Information_Series_Sheet_4:_Probabilistic_linking.html) 
 provides a table of fields to consider when blocking.
 
 ### Deduplication 
