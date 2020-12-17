@@ -37,6 +37,7 @@ widely-used record linking algorithms with hand-linked datasets and synthetic da
 * [Improving deduplication of identities](http://www.datasciencepublicpolicy.org//wp-content/uploads/2018/11/dedupewhitepaper.pdf)
 * [Linking Administrative Data: Strategies and Methods](https://github.com/californiapolicylab/data-linking/blob/master/Data%20Linking%20-%20white%20paper%20-%2012%2018%2018%20-%20FINAL.pdf)
 * [Challenges in administrative data linkage for research](https://journals.sagepub.com/doi/10.1177/2053951717745678)
+
 ### Active Research and Development 
 * [Modernizing Person-Level Entity Resolution with Biometrically Linked
 Records](https://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2020/12/entity_resolution_20201203.pdf)
