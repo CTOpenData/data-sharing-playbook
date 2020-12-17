@@ -22,7 +22,12 @@ When comparing two datasets, checking every single possible pair is computationa
 Blocking solves this computational challenge by only comparing pairs that are likely to match according to particular fields. For example, by using age for blocking, only records with the same birth year are compared to each other. A common strategy is to run mulitple block passes because some fields are missing or erroneous. The [Australian Government's Open Data Toolkit](https://toolkit.data.gov.au/Data_Linking_Information_Series_Sheet_4:_Probabilistic_linking.html) 
 provides a table of fields to consider when blocking.
 
-### Deduplication 
+### Measuring Accuracy
+There are two types of matching errors that arise when linking records. The first is a false negative, which implies two records that failed to meet the set criteria actually are a match. The second is a false positive, which is when two records are paired when they are in fact not a match. There is a tradeoff between false negatives and false positives when determining a matching criteria. A stricter matching criteria will decrease the number of false positives but increase the number of false negatives. The context of the data match provides guidance on which type of error to minimize.
+
+It is very difficult to capture the true number of false negatives and false positives in a data merge. Researchers have implemented creatives methods for assessing the accuracy of record linkage algorithms. For example, researchers at the University of Michigan tested a supervised learning, record linkage algorithm by training it on a large, novel dataset that includes biometric identifiers (fingerprint-matched) to construct unbiased measure of error.
+
+
 
 ### Recommended reading
 * [Two Methods Of Linking: Probabilistic And Deterministic Record-linkage Methods](https://aspe.hhs.gov/report/studies-welfare-populations-data-collection-and-research-issues/two-methods-linking-probabilistic-and-deterministic-record-linkage-methods)
