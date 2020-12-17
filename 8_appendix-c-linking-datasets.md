@@ -17,7 +17,7 @@ Deterministic data linking combines individual records only if the fields that a
 Probabilistic data linking combines individual records using a special algorithm that compares multiple fields to determine if two records are the same entity. For example, [P20 WIN's data linking process](https://youtu.be/c6D_8qisXyA) uses identifiers such as name, birthday, and other fields present in both datasets to combine datasets. Probabilistic data linking is best suited for datasets that don’t have a unique identifier. It’s also best suited when two datasets have a unique identifier that’s inconsistently present or untrusted.
 
 ### Blocking
-When comparing two datasets, checking every single possible pair is computationally taxing. For example, two datasets each containing 100 records would require 10,000 pairwise comparisons. This quickly become unmanageable when linking two administrative datasets.
+When comparing two datasets, checking every single possible pair is computationally taxing. For example, two datasets each containing 100 records would require 10,000 pairwise comparisons. This computational reality quickly becomes unmanageable among larger administrative datasets.
 
 Blocking solves this computational challenge by only comparing pairs that are likely to match according to particular fields. For example, by using age for blocking, only records with the same birth year are compared to each other. A common strategy is to run mulitple block passes because some fields are missing or erroneous. The [Australian Government's Open Data Toolkit](https://toolkit.data.gov.au/Data_Linking_Information_Series_Sheet_4:_Probabilistic_linking.html) 
 provides a table of fields to consider when blocking.
