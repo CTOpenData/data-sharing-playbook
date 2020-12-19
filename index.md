@@ -14,7 +14,7 @@ Note that this playbook is a work in progress and does not represent official IT
 
 ## How to use this playbook
 
-We recommend that agencies who own data read the following sections in order to build a data sharing framework that respects the laws and regulations that apply to their data:
+We recommend that agencies that collect or possess data read the following sections in order to build a data sharing framework that respects the laws and regulations that apply to their data:
 
  * [Enabling Data Sharing](/data-sharing-playbook/enabling-data-sharing/)
  * [Safeguarding Data](/data-sharing-playbook/safeguarding-data/)
