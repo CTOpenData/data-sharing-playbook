@@ -9,12 +9,15 @@ weight: 1
 The steps below are best practices for making data requests. Data owners are frequently overburdened with daily operations. You can make it as easy as possible for them to fulfill your request by planning carefully and addressing all of the relevant questions up front.
 
 ## Design questions that can be answered with data.
+
 Before you can make an effective data request, you need to know exactly what you are looking for and why. Below are some questions to answer before moving forward.
 
 ### “What is the overarching goal or objective that I want to accomplish?”
+
 Knowing what you want before turning to data is a prerequisite to effective data use. 
 
 ### “What do I want to find out or measure?”
+
 Thinking about what questions you want to answer will help you identify the most relevant metrics. Some examples of research questions for your data could include:
 * To what extent is the service provided by [Program X] reaching constituents?
 * Do budget allocations meet needs? Are budget allocations used by the populations in need?
@@ -22,6 +25,7 @@ Thinking about what questions you want to answer will help you identify the most
 * How did [Event X] impact residents of Connecticut?
 
 ### “How much data do I actually need?”
+
 In the age of “big data” it may be tempting to collect as much information as possible and sort through it later. But this approach is counterproductive. Looking at too many metrics may overwhelm the analysis or distract you from your research question. And requesting more data than you need from a state agency may make responding to your request more time consuming. Some methods of reducing the amount of data you have to sift through include:
 
 * **Consider the time frame.** Looking at smaller windows of time can provide clues about how better to dissect the bigger picture without having to sort through as much information.
@@ -30,6 +34,7 @@ In the age of “big data” it may be tempting to collect as much information a
 * **Use derived statistics whenever possible.** If you know what question you’d like to answer, you should be able to define specific stats that provide an answer. Using a limited selection of fields, you can compute averages, differences, percentages, and other derived statistics that construct these measurements out of less data while still answering your question.
 
 ## Identify the data.
+
 Before you can request data, you will need to identify the agency and program that’s likely to have the data you are looking for. This data may be found in [Connecticut’s High Value Data Inventory](https://data.ct.gov/Government/2020-CT-Data-Catalog/52ei-h2pn), which lists the high value data maintained by each executive branch agency. The high value data inventory should provide the name of the data owner who you can contact about the data you are interested in. 
 
 If you can’t find the data you are looking for in the high value data inventory, you can reach out to the [Agency Data Officer](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx) at the agency that maintains the data you need. Agency data officers are the point people for data requests at each executive branch agency and can help direct your request. 
@@ -39,6 +44,7 @@ Outside of the governance structure of P20 WIN, each agency has its own process 
 To request data through P20 WIN, review the [Data Dictionary](https://portal.ct.gov/-/media/OPM/P20Win/Reports/P20WIN_Data_Dictionary.xlsx) to identify the data that you will need for your analysis. 
 
 ## Explain your objective and the details of your plan clearly. 
+
 Data owners are accountable for the proper use and security of their data. In order to evaluate the risks and benefits of sharing data, they will need an explanation of how you plan to protect and use it. The data owner’s agency will have its privacy and security processes, and your practices will need to comply with them. When requesting data, you should be prepared to explain:
 
  * What your objective is (i.e. the question you would like to answer)
@@ -51,6 +57,7 @@ Data owners are accountable for the proper use and security of their data. In or
  * How communication between your agency and your partner agency will take place (should there be weekly check-ins about the data usage? Reports filed about data activity? etc.)
 
 ## Specify the parameters of the request.
+
 The data owner needs to understand exactly how to fulfill the request. Some useful parameters or filters to consider include:
 
  * The date range
@@ -59,9 +66,11 @@ The data owner needs to understand exactly how to fulfill the request. Some usef
  * Filters such as age, people tied to a specific program, or geography
 
 ## Keep the scope and timeframe realistic.
+
 Ensure that the data owner can fulfill the data request in a reasonable timeframe and with their available resources. If a data request is too taxing on the data owner, they may reject the request until the parameters change or the requester offers additional resources. Consider the time required for crafting and signing a data sharing agreement.
 
 ## Requesting data through P20 WIN
+
 P20 WIN is the state longitudinal data system and is used to answer policy questions, fulfill federal and state reporting requirements, support program review and evaluation, and support research and analysis on a variety of topics. The P20 WIN system has its own [data request process](https://ctopendata.github.io/p20win-data-governance-manual/data-request-process/) for requesting data from two or more participating agencies.
 
 Participating Agencies that are part of P20 WIN include: 
