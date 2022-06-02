@@ -43,20 +43,20 @@ The process for sharing data varies by agency. The strategies outlined in the [P
 
 ## How to use this playbook
 To learn how to request data from one or more state agencies, refer to these strategies:
- * Preparing a successful data request
- * Requesting data through P20 WIN
+ * [Preparing a successful data request](/data-sharing-playbook/preparing-a-successful-data-request/)
+ * [Requesting data through P20 WIN](/data-sharing-playbook/preparing-a-successful-data-request#requesting-data-through-p20-win/)
 
 If you represent an agency who receives data requests, the sections below describe best practices for enabling data sharing:
- * Develop a data request process
- * Enabling data sharing
- * Safeguarding data
- * Responding to data requests
- * Enabling data sharing as a member of P20 WIN
+ * [Develop a data request process](/data-sharing-playbook/enabling-data-sharing#develop-a-data-request-process/)
+ * [Enabling data sharing](/data-sharing-playbook/enabling-data-sharing/)
+ * [Safeguarding data]()
+ * [Responding to data requests]()
+ * [Enabling data sharing as a member of P20 WIN]()
 
 To learn about transferring data or linking data from different sources, refer to these strategies:
- * Transferring data
- * Linking datasets
- * Transferring and linking data through P20 WIN
+ * [Transferring data]()
+ * [Linking datasets]()
+ * [Transferring and linking data through P20 WIN]()
 
 ## About the data sharing playbook
 
