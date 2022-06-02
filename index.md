@@ -31,7 +31,7 @@ P20 WIN has a membership of ten state agencies, institutions of higher education
  * Department of Children and Families (DCF)
  * Connecticut Coalition to End Homelessness (CCEH)
 
-All participating agencies sign the [Enterprise Memorandum of Understanding (E-MOU)](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20WIN-EMOU-SignedParticipatingAgencies-09092021.pdf), which establishes guidelines for data sharing, governance, and security within the P20 WIN data governance framework. Operating support to P20 WIN is provided by the Office of Policy and Management (OPM).
+All participating agencies sign the [Enterprise Memorandum of Understanding (E-MOU)](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20WIN-EMOU-SignedParticipatingAgencies-09092021.pdf), which establishes guidelines for data sharing, governance, and security within the P20 WIN data governance framework. Operating support to P20 WIN is provided by the Office of Policy and Management.
 
 Requests for data from two or more agencies participating in P20 WIN should follow the P20 WIN data request process, summarized on the [P20 WIN website](https://portal.ct.gov/OPM/P20Win/Request-Data). Data requests are prioritized if they align with either a participating agency’s individual research agenda or the [P20 WIN Learning Agenda](https://portal.ct.gov/OPM/P20Win/Research-Agenda).
 
