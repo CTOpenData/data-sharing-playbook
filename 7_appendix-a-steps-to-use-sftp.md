@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Appendix B: Steps to Use SFTP to Securely Transfer Files'
+title: 'Appendix A: Steps to Use SFTP to Securely Transfer Files'
 permalink: /steps-to-use-sftp/
 nav: true
 weight: 7
