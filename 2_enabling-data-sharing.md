@@ -47,7 +47,7 @@ A publicly-available data dictionary helps requesters understand what data your 
  
 ### P20 WIN Data Dictionary and metadata policies
 
-P20 WIN has a [data dictionary](https://portal.ct.gov/OPM/P20Win/Request-Data) containing the elements available for request. Participating agencies provide updates each year in accordance with the [P20 WIN metadata policies and processes](https://ctopendata.github.io/p20win-data-governance-manual/data-policies/). 
+P20 WIN has a [data dictionary](https://portal.ct.gov/OPM/P20Win/Request-Data) containing the elements available for request. Participating agencies provide updates each year in accordance with the [P20 WIN metadata policies and processes](https://p20-win.github.io/Data-Governance-Manual/data-policies/). 
 
 ## Document metadata.
 
