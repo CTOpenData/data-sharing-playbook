@@ -102,4 +102,4 @@ Once a data request has been submitted:
 4. P20 WIN staff and data stewards coordinate the production and secure transfer of data files for the data matching process to the data requestor. 
 5. The data requestor conducts their analysis using the data files provided.
 
-More information about the P20 WIN data request process can be found on the [P20 WIN website](https://portal.ct.gov/OPM/P20Win/Request-Data) and, with additional detail, in the [P20 WIN Data Governance Manual](https://ctopendata.github.io/p20win-data-governance-manual/). 
+More information about the P20 WIN data request process can be found on the [P20 WIN website](https://portal.ct.gov/OPM/P20Win/Request-Data) and, with additional detail, in the [P20 WIN Data Governance Manual](https://p20-win.github.io/Data-Governance-Manual/). 
