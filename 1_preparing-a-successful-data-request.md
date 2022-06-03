@@ -89,8 +89,9 @@ Participating Agencies that are part of P20 WIN include:
 
 Requests for data through P20 WIN should include data from two or more participating agencies and should align with either a participating agency’s individual issue priorities or the [P20 WIN Learning Agenda](https://portal.ct.gov/OPM/P20Win/Research-Agenda). 
 
-1. To submit a data request through P20 WIN, the requestor should follow the steps summarized below. 
-Submit a written proposal that outlines the request and data needed to the P20 WIN staff at OPM. 
+To submit a data request through P20 WIN, the requestor should follow the steps summarized below. 
+
+1. Submit a written proposal that outlines the request and data needed to the P20 WIN staff at OPM. 
 2. Once the P20 WIN Outreach and Engagement Coordinator reviews the data request proposal and determines viability, the data requestor will receive a Data Sharing Request Form to complete, which will then be reviewed by P20 WIN staff for completeness and alignment with the P20 WIN Learning Agenda.
 
 Once a data request has been submitted: 
