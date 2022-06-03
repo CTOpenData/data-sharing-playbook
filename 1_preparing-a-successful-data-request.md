@@ -39,7 +39,7 @@ Before you can request data, you will need to identify the agency and program th
 
 If you can’t find the data you are looking for in the high value data inventory, you can reach out to the [Agency Data Officer](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx) at the agency that maintains the data you need. Agency data officers are the point people for data requests at each executive branch agency and can help direct your request. 
 
-Outside of the governance structure of P20 WIN, each agency has its own process for making data requests. The agency data officer should be able to provide more information about how data requests are handled at their agency and what next steps you should follow for requesting the data. 
+Outside of the governance structure of P20 WIN, each agency has its own process for managing data requests. The agency data officer should be able to provide more information about how data requests are handled at their agency and what next steps you should follow for requesting the data. 
 
 To request data through P20 WIN, review the [Data Dictionary](https://portal.ct.gov/-/media/OPM/P20Win/Reports/P20WIN_Data_Dictionary.xlsx) to identify the data that you will need for your analysis. 
 
