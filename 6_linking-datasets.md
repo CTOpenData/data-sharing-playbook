@@ -32,4 +32,4 @@ It is very difficult to capture the true number of false negatives and false pos
 
 ## Transferring and linking data in P20 WIN
 
-P20 WIN’s data linking process uses identifiers such as name, birthday, and other fields present in both datasets to combine datasets. [This video](https://youtu.be/c6D_8qisXyA) provides more details about P20 WIN’s data linking process. Additional detail can be found in the P20 WIN Data Governance Manual [key processes](https://ctopendata.github.io/p20win-data-governance-manual/key-processes/).
+P20 WIN’s data linking process uses identifiers such as name, birthday, and other fields present in both datasets to combine datasets. [This video](https://youtu.be/c6D_8qisXyA) provides more details about P20 WIN’s data linking process. Additional detail can be found in the P20 WIN Data Governance Manual [key processes](https://p20-win.github.io/Data-Governance-Manual/key-processes/).
