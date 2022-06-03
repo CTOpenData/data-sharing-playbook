@@ -59,13 +59,13 @@ MOUs are best suited for ongoing data transfers that have consistent and formali
  * Describes why an agreement is required
  * Specifies the terms and conditions for the partnership
 
-MOUs are especially important when the basis for a data sharing relationship is grant funding or a service contract. The process of establishing an “MOU enables potential partners to identify similarities and differences in their priorities and goals, available resources (time, money, and expertise), project timelines, and expected outcomes prior to collaboration.”1
+MOUs are especially important when the basis for a data sharing relationship is grant funding or a service contract. The process of establishing an “MOU enables potential partners to identify similarities and differences in their priorities and goals, available resources (time, money, and expertise), project timelines, and expected outcomes prior to collaboration.”[^1]
 
 ### Data Use Agreement (DUA) or Data Use Licenses (DUL)
 
 Data Use Agreements (DUAs) or Data Use Licenses (DULs) are best suited for individual data sharing transactions. DUAs precisely specify the parameters for the data transfer, who will have access to the data, the intended use of the data, and how the requester should destroy data.
 
-They may also “include specific time parameters for data use or provide special provisions for data disclosure or requirements for the data holding agency to review resulting research before its publication.”2
+They may also “include specific time parameters for data use or provide special provisions for data disclosure or requirements for the data holding agency to review resulting research before its publication.”[^2]
 
 ### Enterprise Memorandum of Understanding (E-MOU)
 
@@ -76,7 +76,7 @@ An E-MOU is a long-term agreement signed by multiple parties in order to facilit
  * Define codified request procedures
  * Highlight the rights and responsibilities of data stewards and requesters
 
-E-MOUs are mostly used to facilitate government agency to government agency data sharing and have been implemented in multiple states.3
+E-MOUs are mostly used to facilitate government agency to government agency data sharing and have been implemented in multiple states.[^3]
 
 ### Data Sharing Agreement (DSA)
 
