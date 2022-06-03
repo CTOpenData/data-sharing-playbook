@@ -5,6 +5,7 @@ permalink: /linking-datasets/
 nav: true
 weight: 8
 ---
+This page highlights resources from different organizations about data sharing and related topics.
 
 ## Preparing a Successful Data Request
  * [Getting Organized: Steps to Take before Negotiating](https://www.neighborhoodindicators.org/library/guides/getting-organized-steps-take-negotiating), National Neighborhood Indicators Partnership, 2018 
