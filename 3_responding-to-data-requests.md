@@ -17,7 +17,7 @@ Establish a process for how key questions are asked, answered, and documented. W
  * Who will have access to the data?
  * What is the specific data they are requesting and what are the specific parameters?
 
-If the requester is planning to combine data with another dataset, this will require careful review and consideration from both teams. This could be a complex process, and we’ve included some discussion of data linking in the [Linking Datasets](/data-sharing-playbook/linking-datasets) section.
+If the requester is planning to combine data with another dataset, this will require careful review and consideration from both teams. This could be a complex process, and we’ve included some discussion of data linking in the [Linking Datasets](/data-sharing-playbook/linking-datasests/) section.
 
 ## Identify the type of legal data sharing agreement you will need.
 
