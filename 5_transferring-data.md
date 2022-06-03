@@ -86,4 +86,4 @@ Use of our Enterprise Secure File Transport Service has the following conditions
  * Each agency who has enrolled in this service will need to appoint a primary and alternate SFT Liaison, with whom we will work on matters associated with your agency’s use of this system. The SFT Liaison will be granted an elevated level of permissions to provide basic support to your agency (e.g., password resets, etc.)
  * Content on the SFT environment is considered transitional and is automatically purged after 60 days.
  
-See Appendix A for a step by step guide to using SFTP.
+See [Appendix A](/data-sharing-playbook/steps-to-use-sftp/) for a step by step guide to using SFTP.
