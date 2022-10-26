@@ -71,7 +71,7 @@ Ensure that the data owner can fulfill the data request in a reasonable timefram
 
 ## Requesting data through P20 WIN
 
-P20 WIN is the state longitudinal data system and is used to answer policy questions, fulfill federal and state reporting requirements, support program review and evaluation, and support research and analysis on a variety of topics. The P20 WIN system has its own [data request process](https://ctopendata.github.io/p20win-data-governance-manual/data-request-process/) for requesting data from two or more participating agencies.
+P20 WIN is the state longitudinal data system and is used to answer policy questions, fulfill federal and state reporting requirements, support program review and evaluation, and support research and analysis on a variety of topics. The P20 WIN system has its own [data request process](https://portal.ct.gov/OPM/P20Win/Request-Data) for requesting data from two or more participating agencies.
 
 Participating Agencies that are part of P20 WIN include: 
 
@@ -87,7 +87,7 @@ Participating Agencies that are part of P20 WIN include:
  * Department of Children and Families (DCF)
  * Connecticut Coalition to End Homelessness (CCEH)
 
-Requests for data through P20 WIN should include data from two or more participating agencies and should align with either a participating agency’s individual issue priorities or the [P20 WIN Learning Agenda](https://portal.ct.gov/OPM/P20Win/Research-Agenda). 
+Requests for data through P20 WIN should include data from two or more participating agencies and should align with either a participating agency’s individual issue priorities or the [P20 WIN Learning Agenda](https://portal.ct.gov/OPM/P20Win/Learning-Agenda). 
 
 To submit a data request through P20 WIN, the requestor should follow the steps summarized below. 
 
